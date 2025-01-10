@@ -7,7 +7,7 @@ Repositório de arquivos de estudo de Power BY como portifólio de aprendizagem
 
 Descrição dos projetos e a que eles referem-se:
 
-| Foco de estudo    | Nome do Projeto                          | caminho       |
+| *Foco de estudo*  | *Nome do Projeto*                        | *Caminho*     |
 |-------------------|------------------------------------------|---------------|
 | DataViz           | Gatito                                   | infromar      |
 | DataViz           | Opuline                                  | informar      |
